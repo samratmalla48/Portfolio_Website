@@ -28,7 +28,7 @@ function Projects() {
               title="NEWCASTLE-AUTO-SPARE-PARTS-PTY-LTD"
               description="The Newcastle Auto Spare Parts Online Portal offers a convenient platform for Australian automotive enthusiasts to buy and track parts with personalized recommendations and secure checkout."
               ghLink="https://github.com/samratmalla48/NEWCASTLE-AUTO-SPARE-PARTS-PTY-LTD-main"
-              demoLink="https://chatify-49.web.app/"
+              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
