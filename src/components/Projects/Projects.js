@@ -25,9 +25,9 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/samratmalla48/Chatify"
+              title="NEWCASTLE-AUTO-SPARE-PARTS-PTY-LTD"
+              description="The Newcastle Auto Spare Parts Online Portal offers a convenient platform for Australian automotive enthusiasts to buy and track parts with personalized recommendations and secure checkout."
+              ghLink="https://github.com/samratmalla48/NEWCASTLE-AUTO-SPARE-PARTS-PTY-LTD-main"
               demoLink="https://chatify-49.web.app/"
             />
           </Col>
