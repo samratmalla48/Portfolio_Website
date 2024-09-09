@@ -25,6 +25,14 @@ function Projects() {
               ghLink="https://github.com/samratmalla48/NEWCASTLE-AUTO-SPARE-PARTS-PTY-LTD-main"
               // demoLink="https://chatify-49.web.app/"
             />
+                <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Constuction Project"
+              description="Online Website for Construction Team"
+              ghLink="https://github.com/samratmalla48/Construction-Website"
+              // demoLink="https://chatify-49.web.app/"
+            />
           </Col>
         </Row>
       </Container>
