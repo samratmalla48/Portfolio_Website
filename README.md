@@ -3,7 +3,7 @@
   <a  target="_blank">samrat.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img2.png" />
+  <img alt="Demonstration" src="./Images/readme-img2.png" />
 </div>
 
 <br/>
